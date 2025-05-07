@@ -14,7 +14,7 @@ This project is a comprehensive system for generating structured radiology repor
 - ✅ Explainable AI (XAI) integration for interpretability of decisions  
 - ✅ Frontend built with React and Tailwind CSS  
 - ✅ Backend with Python (FastAPI or Flask)  
-- ✅ Pre-trained models (CNN, LSTM, Vision Transformers)  
+- ✅ Pre-trained models (CNN, EfficientNet, ResNet)  
 - ✅ Seamless file upload and PDF report generation  
 
 ## 📁 Project Structure
