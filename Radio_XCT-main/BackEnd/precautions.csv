@@ -1,0 +1,92 @@
+Disease,Precaution_1,Precaution_2,Precaution_3
+Drug Reaction,stop irritation,consult nearest hospital,stop taking drug
+Scoliosis,"Regular monitoring, especially in growing adolescents, to track progression.",Engage in physical therapy to strengthen supporting muscles and improve posture.,Avoid heavy lifting and activities that place uneven stress on the spine.
+Malaria,Consult nearest hospital,avoid oily food,avoid non veg food
+Allergy,apply calamine,cover area with bandage,
+4Severe ,Consider surgical consultation for possible joint replacement.,Avoid high-impact activities and use walking aids for stability.,Adhere to pain management protocols and physical therapy.
+Viral Pneumonia,Practice good hand hygiene and avoid close contact with sick individuals.,"Get vaccinated for preventable viral infections (e.g., flu, COVID-19)",Seek early medical attention for respiratory symptoms.
+Hypothyroidism,reduce stress,exercise,eat healthy
+Psoriasis,wash hands with warm soapy water,stop bleeding using pressure,consult doctor
+Renal Cyst,Regular monitoring with ultrasound or CT to track changes in cyst size or characteristics.,Maintain blood pressure control to reduce the risk of cyst progression.,Avoid nephrotoxic substances and maintain proper hydration.
+Gallstones (Cholelithiasis),"Maintain a healthy diet, low in saturated fats and high in fiber, to prevent cholesterol imbalances.",Engage in regular physical activity to regulate bile production and prevent obesity.,"Avoid rapid weight loss, as it can disrupt bile composition and promote stone formation."
+Impacted Teeth,Monitor tooth eruption during regular dental visits.,Address crowding early with orthodontic treatment if needed.,"Avoid habits that put pressure on erupting teeth (e.g., thumb-sucking)."
+GERD,avoid fatty spicy food,avoid lying down after eating,maintain healthy weight
+Abdomen and Retroperitoneum,Monitor abdominal pain and gastrointestinal symptoms for early diagnosis of retroperitoneal disorders.,Avoid excessive alcohol intake to reduce strain on hepatobiliary structures.,Seek prompt medical attention for unexplained weight loss or persistent pain.
+Chronic cholestasis,cold baths,anti itch medicine,consult doctor
+Fractured Tooth,Avoid chewing hard foods or ice.,Wear a mouthguard if grinding teeth or playing contact sports.,Seek immediate dental care for any suspected fracture.
+hepatitis A,Consult nearest hospital,wash hands through,avoid fatty spicy food
+Tuberculosis (TB),Ensure proper ventilation in living areas.,Complete the full course of TB medications.,Avoid close contact with TB-positive individuals during active disease.
+Osteoarthristis,acetaminophen,consult nearest hospital,follow up
+Membranous and Gangrenous Cholecystitis,Immediate hospitalization and intravenous antibiotics.,Avoid food and drinks; maintain NPO (nothing by mouth) status pre-surgery.,Surgical consultation for potential cholecystectomy.
+Spondylolisthesis,"Avoid activities that place excessive strain on the lower back, such as heavy lifting or high-impact sports.",Engage in physical therapy focused on core stabilization and lumbar support.,"Avoid exercises that put excessive strain on the lower back, such as heavy weight lifting or full sit-ups. Avoid exercises that cause pain or discomfort. If an exercise is causing pain, stop the exercise immediately"
+(vertigo) Paroymsal  Positional Vertigo,lie down,avoid sudden change in body,avoid abrupt head movment
+Hypoglycemia,lie down on side,check in pulse,drink sugary drinks
+Cholecystitis,Avoid fatty meals to reduce bile production and minimize gallbladder stimulation.,Seek early medical intervention if symptoms of biliary colic or fever occur.,"Avoid high-fat foods, such as Chocolate, whole milk, ice cream, processed cheese, and egg yolks. Fried, deep fried, or buttered foods. Sausage, salami, and bacon."
+Coronavirus (COVID-19),Follow hygiene practices like handwashing and mask-wearing.,Get vaccinated and avoid crowded places during outbreaks.,Monitor oxygen levels if symptomatic.
+Acne,bath twice,avoid fatty spicy food,drink plenty of water
+Fractured,Ensure the affected area is immobilized with a splint or cast to prevent further displacement.,Administer prescribed analgesics and avoid unnecessary movement.,Adhere to physical therapy and gradual weight-bearing protocols post-healing to restore function.
+Not Fractured,Avoid high-impact activities and use protective equipment during sports or physical labor.,Maintain adequate calcium and vitamin D intake to support bone strength.,"For individuals at risk (e.g., osteoporosis), schedule regular bone density assessments."
+Diabetes,have balanced diet,exercise,consult doctor
+Normal Chest,Avoid smoking and exposure to pollutants.,Maintain regular exercise and a balanced diet.,Get regular checkups to monitor lung health.
+Tumor,Follow up with a neurologist regularly.,Avoid exposure to radiation and toxins.,Maintain a healthy lifestyle with proper diet and exercise.
+Healthy Teeth,Maintain daily oral hygiene (brushing and flossing).,Eat a balanced diet rich in vitamins and minerals.,Schedule regular dental checkups and cleanings.
+Normal Brain,Maintain a healthy lifestyle with regular physical activity and a balanced diet to support cerebrovascular health.,"Monitor blood pressure, cholesterol levels, and blood glucose to prevent vascular complications.",Avoid smoking and limit alcohol consumption to reduce stroke risk factors.
+Brain Stroke,Immediate medical evaluation and administration of thrombolytic therapy (if ischemic) within the therapeutic window.,Control of blood pressure and blood glucose levels to prevent worsening of the condition.,Monitor for secondary complications such as cerebral edema or hemorrhagic transformation.
+Impetigo,soak affected area in warm water,use antibiotics,remove scabs with wet compressed cloth
+Perforation,Immediate surgical intervention is required; avoid delays in seeking medical care.,Administer broad-spectrum antibiotics promptly.,Ensure fluid resuscitation and hemodynamic support in critical cases.
+Kidney Tumor,Early detection through regular imaging for high-risk individuals.,Avoid smoking and adopt a healthy diet to reduce cancer risk.,Adhere to medical advice for biopsy or further evaluation if a suspicious mass is detected.
+Hypertension,meditation,salt baths,reduce stress
+0Normal,Maintain a healthy weight to reduce joint stress.,Engage in regular low-impact exercises for joint mobility and strength.,Avoid excessive strain from repetitive high-impact activities.
+Peptic ulcer diseae,avoid fatty spicy food,consume probiotic food,eliminate milk
+Dimorphic hemmorhoids(piles),avoid fatty spicy food,consume witch hazel,warm bath with epsom salt
+Normal Kidneys,Maintain adequate hydration to support renal function.,Follow a balanced diet with controlled sodium and protein intake.,"Undergo regular health checkups, especially for individuals with risk factors like diabetes or hypertension."
+Common Cold,drink vitamin c rich drinks,take vapour,avoid cold food
+Meningioma,"Monitor for signs of mass effect, especially if near critical structures like the optic nerve or brainstem.", Surgical resection is the primary treatment for symptomatic or growing lesions.,"Post-operative imaging is crucial to detect recurrence, particularly in atypical or malignant variants."
+Aneurysm,"Monitor closely for signs of rupture, such as sudden severe headache, altered mental status, or neurological deficits.",Immediate neurosurgical consultation is required for large or symptomatic aneurysms.,"Avoid activities or medications that increase blood pressure, as these may raise the risk of rupture."
+Chicken pox,use neem in bathing,consume neem leaves,take vaccine
+Cervical spondylosis,use heating pad or cold pack,exercise,take otc pain reliver
+🩺 Fibrosis,Avoid smoking and exposure to harmful dust or chemicals.,"Treat underlying causes (e.g., autoimmune diseases) promptly.",Follow up regularly with a pulmonologist.
+Hyperthyroidism,eat healthy,massage,use lemon balm
+No Tumor,Continue routine clinical follow-up if symptoms persist or evolve.,"Consider alternative diagnoses such as infection, inflammation, or vascular pathology.",Repeat imaging may be necessary if new neurological symptoms arise.
+Urinary tract infection,drink plenty of water,increase vitamin c intake,drink cranberry juice
+Polyps and Cholesterol Crystals,Regular ultrasound monitoring of polyps for changes in size or number.,Maintain a low-cholesterol diet.,Consider prophylactic cholecystectomy if polyps exceed 10 mm.
+Varicose veins,lie down flat and raise the leg high,use oinments,use vein compression
+🧬 Bacterial Pneumonia,Get vaccinated against pneumococcal bacteria.,Complete antibiotics as prescribed.,Avoid smoking to protect lung health.
+AIDS,avoid open cuts,wear ppe if possible,consult doctor
+Brain Cancer,"Prompt neuro-oncology referral for biopsy, histological diagnosis, and treatment planning.","Regular imaging follow-ups to monitor tumor growth, response to therapy, or recurrence.","Management of symptoms like seizures, increased intracranial pressure, or neurological deficits with appropriate medical interventions."
+Paralysis (brain hemorrhage),massage,eat healthy,exercise
+1Doubtful ,Monitor for progression through regular follow-ups.,Avoid activities that cause knee discomfort.,Incorporate strengthening exercises to support the joint.
+Typhoid,eat high calorie vegitables,antiboitic therapy,consult doctor
+Atelectasis,Practice deep breathing exercises after surgery.,Avoid prolonged immobility.,Treat respiratory infections promptly.
+Pituitary Lesion,"Evaluate for hormonal imbalances, as pituitary lesions may disrupt endocrine function.","Monitor visual function, particularly for signs of optic chiasm compression.", Multidisciplinary management with endocrinology and neurosurgery is advised for symptomatic or enlarging lesions.
+Normal Spine,"Maintain good posture while sitting, standing, and lifting objects.",Engage in regular physical activity to strengthen core muscles.,Avoid prolonged sedentary activities and ensure ergonomic workspace setup.
+Hepatitis B,consult nearest hospital,vaccination,eat healthy
+Fungal infection,bath twice,use detol or neem in bathing water,keep infected area dry
+Cardiomegaly,Manage blood pressure and other cardiovascular risk factors.,Follow a heart-healthy diet and exercise regularly.,Follow a heart-healthy diet and exercise regularly.
+Hepatitis C,Consult nearest hospital,vaccination,eat healthy
+Kidney Stone (Nephrolithiasis),Increase fluid intake to prevent stone formation.,Limit dietary intake of oxalate-rich foods and reduce salt consumption.,Regularly monitor urinary pH and follow prescribed medications to prevent recurrence.
+Migraine,meditation,reduce stress,use poloroid glasses in sun
+glioma,"Monitor for signs of increased intracranial pressure, such as headache, nausea, or altered consciousness.",Regular imaging follow-up is necessary to assess tumor progression or response to treatment.,Biopsy or surgical intervention should be guided by neuro-oncology teams for histological grading and treatment planning.
+Bronchial Asthma,switch to loose cloothing,take deep breaths,get away from trigger
+Adenomyomatosis,Routine follow-up imaging for changes in size or characteristics.,Avoid fatty meals to reduce gallbladder contraction and discomfort.,Consider surgical intervention if symptomatic.
+Alcoholic hepatitis,stop alcohol consumption,consult doctor,medication
+💧 Effusion (Pleural Effusion),Treat underlying causes like infection or heart failure.,Monitor for shortness of breath and seek early care.,Avoid exposure to toxins that may affect pleura.
+Jaundice,drink plenty of water,consume milk thistle,eat fruits and high fiberous food
+Hepatitis E,stop alcohol consumption,rest,consult doctor
+2Mild ,Use supportive footwear to reduce joint impact.,Begin a structured physiotherapy program focused on joint stability.,Limit prolonged weight-bearing activities.
+Dengue,drink papaya leaf juice,avoid fatty spicy food,keep mosquitos away
+Infiltration,Avoid exposure to airborne pathogens.,Identify and treat the underlying cause.,Regular follow-up if recurrent infections occur.
+BDR-BCR,"During Treatment  Careful handling is needed during restorative procedures to avoid damaging these structures, as they help maintain proper occlusion and chewing efficiency.",In Extraction Proper technique should be used to avoid fracturing the cusp or ridge.,"In Cleaning  Special attention is needed during brushing and flossing to prevent plaque buildup in these areas, reducing the risk of cavities or gum disease."
+Hepatitis D,consult doctor,medication,eat healthy
+Carcinoma,Early surgical intervention is critical if diagnosed.,Monitor for metastasis with CT and MRI.,Palliative care options if detected at an advanced stage.
+Malignant Breast,"Undergo regular screenings (mammograms, ultrasounds) for early detection.","Report any unusual lumps, nipple discharge, or skin changes immediately.","Follow medical advice for high-risk individuals, such as genetic counseling or preventive treatments."
+Heart attack,call ambulance,chew or swallow asprin,keep calm
+Benign Breast,Regular breast self-exams to monitor changes.,Schedule routine mammograms as recommended.,Maintain a healthy lifestyle to reduce overall breast disease risk.
+Pneumonia,consult doctor,medication,rest
+Gallbladder Wall Thickening,Monitor for concurrent symptoms to determine underlying cause.,Consider antibiotics if infection is suspected.,Plan for surgical intervention if cholecystitis is confirmed.
+Arthritis,exercise,use hot and cold therapy,try acupuncture
+Gastroenteritis,stop eating solid food for while,try taking small sips of water,rest
+Tuberculosis,cover mouth,consult doctor,medication
+Caries,Brush twice daily with fluoride toothpaste.,Reduce sugary foods and drinks.,Get regular dental checkups and cleanings.
+Normal Breast,Practice regular self-examinations to stay familiar with normal breast texture.,Keep up with routine breast screenings as per age and risk factors.,Maintain a healthy lifestyle with balanced nutrition and regular exercise.
+3Moderate ,Implement pain management strategies and use assistive devices if needed.,Consider weight management to alleviate pressure on the knee.,Regular physiotherapy for strengthening and flexibility.
