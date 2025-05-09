@@ -95,7 +95,7 @@ Reports are automatically generated as PDFs and include:
 🔗 [GitHub Repository](https://github.com/Priskilla5/RADIOLOGY-REPORT-GENERATOR-USING-DEEP-LEARNING-AND-EXPLAINABLE-AI-IN-INDIAN-LANGUAGES)
 
 
-🔗 [Deployed Link]( https://medicalreportgen.web.app)
+🔗 [Deployed Link](https://medical-report-ai.web.app/)
 
 
 ## 🙋‍♀️ Authors
